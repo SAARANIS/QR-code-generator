@@ -17,7 +17,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/QR-Code-Generator.git
+   git clone https://github.com/SAARANIS/QR-code-generator.git
    cd QR-Code-Generator
    ```
 2. Install dependencies:
